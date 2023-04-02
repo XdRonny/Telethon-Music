@@ -36,5 +36,5 @@ async def _(event):
    delta_ping = time() - start
    uptime_sec = (current_time - START_TIME).total_seconds()
    uptime = await _human_time_duration(int(uptime_sec))
-   UMM = [[Button.url("⚜𝗢𝗪𝗡𝗘𝗥", "https://t.me/ll_Her_Boy_ll")]]
-   await event.reply(f"╰☞ 𝗣𝗢𝗡𝗚™╮\n☞ {delta_ping * 1000:.3f}\n☞ {uptime}", buttons=UMM)
+   UMM = [[Button.url("⚜𝗢𝗪𝗡𝗘𝗥", "https://t.me/ll_am_toxic_ll")]]
+   await event.reply(f"╰☞ ◄⏤͟͞ 𝙍𝙊𝙉𝙉𝙔 [🪬]™╮\n☞ {delta_ping * 1000:.3f}\n☞ {uptime}", buttons=UMM)
