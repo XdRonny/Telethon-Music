@@ -8,8 +8,8 @@ import aiohttp
 from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont, ImageOps, ImageChops
 from youtubesearchpython.__future__ import VideosSearch
  
-MUSIC_BOT_NAME = "Telethon Music"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/95d96663b73dbf278f28c.jpg"
+MUSIC_BOT_NAME = "◄⏤͟͞ 𝙍𝙊𝙉𝙉𝙔 [🪬] Music"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/500bb877f5d557ace7862.jpg"
 files = [] 
 
 for filename in os.listdir("./thumbnail"): 
